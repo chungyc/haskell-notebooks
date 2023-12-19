@@ -9,7 +9,7 @@ These are individual notebooks, each dealing with their own random topic on Hask
 
 ## List of notebooks
 
-*   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chungyc/ihaskell/custom?urlpath=git-pull%253Frepo%253Dhttps%25253A%25252F%25252Fgithub.com%25252Fchungyc%25252Fhaskell-notebooks%2526urlpath%253Dlab%25252Ftree%25252Fhaskell-notebooks%25252FQuickCheck.ipynb%2526branch%253Dmain) [QuickCheck](QuickCheck.ipynb)
+*   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chungyc/ihaskell/custom?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fchungyc%252Fhaskell-notebooks%26urlpath%3Dlab%252Ftree%252Fhaskell-notebooks%252FQuickCheck.ipynb%26branch%3Dmain) [QuickCheck](QuickCheck.ipynb)
 
 ## Contributing
 
