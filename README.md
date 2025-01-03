@@ -11,7 +11,7 @@ These are individual notebooks, each dealing with their own random topic on Hask
 
 *   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chungyc/ihaskell/custom?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fchungyc%252Fhaskell-notebooks%26urlpath%3Dlab%252Ftree%252Fhaskell-notebooks%252FQuickCheck.ipynb%26branch%3Dmain) [QuickCheck](QuickCheck.ipynb)
 
-*   [Symtegration](Symtegration.ipynb)
+*   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chungyc/ihaskell/custom?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fchungyc%252Fhaskell-notebooks%26urlpath%3Dlab%252Ftree%252Fhaskell-notebooks%252FSymtegration.ipynb%26branch%3Dmain) [Symtegration](Symtegration.ipynb)
 
 ## Contributing
 
