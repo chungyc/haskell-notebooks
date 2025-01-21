@@ -1,0 +1,1 @@
+FROM chungyc/ihaskell:custom
