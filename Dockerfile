@@ -6,4 +6,4 @@ FROM chungyc/ihaskell:custom
 COPY . ${HOME}
 
 # Install custom packages.
-RUN stack install QuickCheck symtegration
+RUN stack install QuickCheck
