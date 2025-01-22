@@ -1,7 +1,7 @@
-FROM chungyc/ihaskell:custom
-
-## The following steps prepares container for Binder.
-# https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html
+FROM gibiansky/ihaskell:latest
 
 # Make sure the contents of our repository are in ${HOME}.
 COPY . ${HOME}
+
+# Install custom packages.
+RUN stack install QuickCheck symtegration

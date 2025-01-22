@@ -1,0 +1,9 @@
+# Should match https://github.com/IHaskell/IHaskell/blob/master/stack.yaml.
+resolver: lts-22.10
+
+extra-deps:
+- hspec-2.11.10
+- QuickCheck-2.15.0.1
+- statistics-0.16.2.1
+- git: https://github.com/symtegration/symtegration
+  commit: 'ae44fc65ddd1e9c7132415b86a55e62e90bc4808'
